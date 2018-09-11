@@ -1,0 +1,10 @@
+.container{
+	position: relative;
+	margin: 0 auto;
+}
+h2{
+	position: relative;
+	margin: 0 auto;
+	text-align: center;
+	color: green;
+}
